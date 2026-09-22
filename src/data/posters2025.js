@@ -14,7 +14,7 @@ const hues = [
 export const posters2025 = [
   {
     "id": 2000,
-    "title": "待填写",
+    "title": "基于MATLAB的BP神经网络数据分类——语音特征信号分类",
     "author": "丁欣",
     "studentId": "3125313041",
     "className": "S5132",
@@ -25,7 +25,7 @@ export const posters2025 = [
   },
   {
     "id": 2001,
-    "title": "待填写",
+    "title": "基于深度学习的创面检测与分割系统",
     "author": "丁洋",
     "studentId": "3425999047",
     "className": "",
@@ -36,7 +36,7 @@ export const posters2025 = [
   },
   {
     "id": 2002,
-    "title": "待填写",
+    "title": "基于多模态融合技术的多疾病临床干预疗效预测与方案优化研究",
     "author": "付雨阳",
     "studentId": "4125313007",
     "className": "10班",
@@ -47,7 +47,7 @@ export const posters2025 = [
   },
   {
     "id": 2003,
-    "title": "待填写",
+    "title": "基于SAM的息肉精准分割方法研究",
     "author": "余典",
     "studentId": "3125313023",
     "className": "S5132",
@@ -58,7 +58,7 @@ export const posters2025 = [
   },
   {
     "id": 2004,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "余安祺",
     "studentId": "3125113049",
     "className": "s5129",
@@ -69,7 +69,7 @@ export const posters2025 = [
   },
   {
     "id": 2005,
-    "title": "待填写",
+    "title": "基于深度学习的睡眠分期算法",
     "author": "刘嘉博",
     "studentId": "3125113077",
     "className": "S5130",
@@ -80,7 +80,7 @@ export const posters2025 = [
   },
   {
     "id": 2006,
-    "title": "待填写",
+    "title": "ERI1在骨关节炎软骨细胞中的表达变化分析",
     "author": "刘婉琪",
     "studentId": "4124115033",
     "className": "B2453",
@@ -91,7 +91,7 @@ export const posters2025 = [
   },
   {
     "id": 2007,
-    "title": "待填写",
+    "title": "药物-靶标亲和力预测",
     "author": "刘婷婷",
     "studentId": "4124115056",
     "className": "1班",
@@ -102,7 +102,7 @@ export const posters2025 = [
   },
   {
     "id": 2008,
-    "title": "待填写",
+    "title": "基于眼动追踪技术的阿尔兹海默症辅助诊断系统",
     "author": "刘家琪",
     "studentId": "3125313020",
     "className": "s5131",
@@ -113,7 +113,7 @@ export const posters2025 = [
   },
   {
     "id": 2009,
-    "title": "待填写",
+    "title": "基于图的多实例学习与干预训练在全切片图像分类器泛化中的应用研究",
     "author": "刘洋",
     "studentId": "3125313003",
     "className": "S5131",
@@ -124,7 +124,7 @@ export const posters2025 = [
   },
   {
     "id": 2010,
-    "title": "待填写",
+    "title": "基于注意力推理聚合的多示例学习在全切片病理图像应用",
     "author": "刘煜",
     "studentId": "3125313012",
     "className": "S5131",
@@ -135,7 +135,7 @@ export const posters2025 = [
   },
   {
     "id": 2011,
-    "title": "待填写",
+    "title": "口腔CBCT稀疏角度重建算法研究",
     "author": "刘芷洋",
     "studentId": "3125113062",
     "className": "S5129",
@@ -146,7 +146,7 @@ export const posters2025 = [
   },
   {
     "id": 2012,
-    "title": "待填写",
+    "title": "肺部肿瘤分割：PET-CT影像双模态交互分割网络设计",
     "author": "刘雯婧",
     "studentId": "3125313010",
     "className": "S5131",
@@ -157,7 +157,7 @@ export const posters2025 = [
   },
   {
     "id": 2013,
-    "title": "待填写",
+    "title": "基于深度学习和压缩感知的生理信号压缩重建算法",
     "author": "刘高扬",
     "studentId": "3125313037",
     "className": "S5132",
@@ -168,7 +168,7 @@ export const posters2025 = [
   },
   {
     "id": 2014,
-    "title": "待填写",
+    "title": "基于脑电信号使用LSTM对癫痫发作期分类",
     "author": "吴康",
     "studentId": "3125313016",
     "className": "s5131",
@@ -179,7 +179,7 @@ export const posters2025 = [
   },
   {
     "id": 2015,
-    "title": "待填写",
+    "title": "基于生成式模型VAE的超声图像重建",
     "author": "吴晨霄玥",
     "studentId": "3125113064",
     "className": "S5129",
@@ -190,7 +190,7 @@ export const posters2025 = [
   },
   {
     "id": 2016,
-    "title": "待填写",
+    "title": "使用大模型进行心力衰竭风险预测",
     "author": "周天宝",
     "studentId": "3125313024",
     "className": "S5132",
@@ -201,7 +201,7 @@ export const posters2025 = [
   },
   {
     "id": 2017,
-    "title": "待填写",
+    "title": "基于深度学习的MAR图像脑动脉分割",
     "author": "周子腾",
     "studentId": "4125113070",
     "className": "",
@@ -212,7 +212,7 @@ export const posters2025 = [
   },
   {
     "id": 2018,
-    "title": "待填写",
+    "title": "蛋白质结构分类",
     "author": "周小静",
     "studentId": "3125113045",
     "className": "S5129",
@@ -223,7 +223,7 @@ export const posters2025 = [
   },
   {
     "id": 2019,
-    "title": "待填写",
+    "title": "基于传统机器学习可解释性分析的乳腺癌案例研究",
     "author": "喻程乐",
     "studentId": "3125113026",
     "className": "S5128",
@@ -234,7 +234,7 @@ export const posters2025 = [
   },
   {
     "id": 2020,
-    "title": "待填写",
+    "title": "结直肠息肉智能检测与诊断",
     "author": "孟晨轩",
     "studentId": "4124113057",
     "className": "B2450班",
@@ -245,7 +245,7 @@ export const posters2025 = [
   },
   {
     "id": 2021,
-    "title": "待填写",
+    "title": "基于深度学习的高光谱图像分类",
     "author": "宋亚新",
     "studentId": "3125113053",
     "className": "S5129",
@@ -256,7 +256,7 @@ export const posters2025 = [
   },
   {
     "id": 2022,
-    "title": "待填写",
+    "title": "面向电子鼻系统的混合气体定量分析",
     "author": "尉铭轩",
     "studentId": "3125113069",
     "className": "S5130",
@@ -267,7 +267,7 @@ export const posters2025 = [
   },
   {
     "id": 2023,
-    "title": "待填写",
+    "title": "FETransNet:一种使用Focal-Share Attention和Edge Guidance Block的多目标医学影像分割方法",
     "author": "山晨瑞",
     "studentId": "3125303017",
     "className": "s5131",
@@ -278,7 +278,7 @@ export const posters2025 = [
   },
   {
     "id": 2024,
-    "title": "待填写",
+    "title": "基于DINOv3的乳腺超声图像分类方法",
     "author": "岳雨彪",
     "studentId": "4125113039",
     "className": "25058",
@@ -289,7 +289,7 @@ export const posters2025 = [
   },
   {
     "id": 2025,
-    "title": "待填写",
+    "title": "基于ADMM-U-Net的CT灌注参数反演方法复现与实验研究",
     "author": "师志远",
     "studentId": "3125113051",
     "className": "S5129",
@@ -300,7 +300,7 @@ export const posters2025 = [
   },
   {
     "id": 2026,
-    "title": "待填写",
+    "title": "生物物理限制的循环神经网络对OFC认知灵活性的建模仿真",
     "author": "康越",
     "studentId": "3125113046",
     "className": "S5129",
@@ -311,7 +311,7 @@ export const posters2025 = [
   },
   {
     "id": 2027,
-    "title": "待填写",
+    "title": "基于深度学习的无创血压预测",
     "author": "张云凯",
     "studentId": "3125313009",
     "className": "S5131",
@@ -322,7 +322,7 @@ export const posters2025 = [
   },
   {
     "id": 2028,
-    "title": "待填写",
+    "title": "锥形束平板CT运动伪影校正算法",
     "author": "张亦菲",
     "studentId": "3125113061",
     "className": "S5129",
@@ -333,7 +333,7 @@ export const posters2025 = [
   },
   {
     "id": 2029,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "张博昆",
     "studentId": "4525213008",
     "className": "同等学历",
@@ -344,7 +344,7 @@ export const posters2025 = [
   },
   {
     "id": 2030,
-    "title": "待填写",
+    "title": "基于双分支融合模型的高光谱危险化学品监测系统",
     "author": "张奕寒",
     "studentId": "3125313008",
     "className": "",
@@ -355,7 +355,7 @@ export const posters2025 = [
   },
   {
     "id": 2031,
-    "title": "待填写",
+    "title": "U-NET分割乳腺癌肿瘤图像",
     "author": "张恩睿",
     "studentId": "3125313018",
     "className": "s5131",
@@ -366,7 +366,7 @@ export const posters2025 = [
   },
   {
     "id": 2032,
-    "title": "待填写",
+    "title": "基于卷积神经网络的心律不齐分类检测算法",
     "author": "张成",
     "studentId": "4124156019",
     "className": "b2491",
@@ -377,7 +377,7 @@ export const posters2025 = [
   },
   {
     "id": 2033,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "张泽睿",
     "studentId": "3125313011",
     "className": "",
@@ -388,7 +388,7 @@ export const posters2025 = [
   },
   {
     "id": 2034,
-    "title": "待填写",
+    "title": "基于PPG的多参融合血糖无创检测算法研究",
     "author": "张琪晗",
     "studentId": "3125113070",
     "className": "S5130",
@@ -399,7 +399,7 @@ export const posters2025 = [
   },
   {
     "id": 2035,
-    "title": "待填写",
+    "title": "超声乳腺影像良恶性诊断研究",
     "author": "张语集",
     "studentId": "",
     "className": "",
@@ -410,7 +410,7 @@ export const posters2025 = [
   },
   {
     "id": 2036,
-    "title": "待填写",
+    "title": "基于DRA-UNet模型的乳腺超声图像肿瘤分割方法",
     "author": "徐海栋",
     "studentId": "3125113047",
     "className": "S5129",
@@ -421,7 +421,7 @@ export const posters2025 = [
   },
   {
     "id": 2037,
-    "title": "待填写",
+    "title": "儿童口呼吸风险预警模型研究",
     "author": "徐照轩",
     "studentId": "4123101099",
     "className": "博2303",
@@ -432,7 +432,7 @@ export const posters2025 = [
   },
   {
     "id": 2038,
-    "title": "待填写",
+    "title": "基于分数模型的PET图像重建",
     "author": "方豪度",
     "studentId": "4125113069",
     "className": "25059",
@@ -443,7 +443,7 @@ export const posters2025 = [
   },
   {
     "id": 2039,
-    "title": "待填写",
+    "title": "基于深度学习的细胞虚拟染色技术研究",
     "author": "星嘉禾",
     "studentId": "3125113065",
     "className": "S5129",
@@ -454,7 +454,7 @@ export const posters2025 = [
   },
   {
     "id": 2040,
-    "title": "待填写",
+    "title": "基于人工智能的心血管疾病风险预测模型：系统综述与独立验证评分工具开发",
     "author": "晏玮",
     "studentId": "4525213010",
     "className": "1班",
@@ -465,7 +465,7 @@ export const posters2025 = [
   },
   {
     "id": 2041,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "曹文",
     "studentId": "3125104149",
     "className": "S5067",
@@ -476,7 +476,7 @@ export const posters2025 = [
   },
   {
     "id": 2042,
-    "title": "待填写",
+    "title": "基于Resnet50的肺炎图像分类的实现",
     "author": "李佳",
     "studentId": "3125313006",
     "className": "S5131",
@@ -487,7 +487,7 @@ export const posters2025 = [
   },
   {
     "id": 2043,
-    "title": "待填写",
+    "title": "基于U-Net的皮肤病变语义分割研究",
     "author": "李佳悦",
     "studentId": "3125313031",
     "className": "S5132",
@@ -498,7 +498,7 @@ export const posters2025 = [
   },
   {
     "id": 2044,
-    "title": "待填写",
+    "title": "基于深度学习的冠状动脉分割",
     "author": "李嘉怡",
     "studentId": "3125113067",
     "className": "",
@@ -509,7 +509,7 @@ export const posters2025 = [
   },
   {
     "id": 2045,
-    "title": "待填写",
+    "title": "穿戴式心电图ST段改变的识别",
     "author": "李岸桐",
     "studentId": "3125113055",
     "className": "S5129",
@@ -520,7 +520,7 @@ export const posters2025 = [
   },
   {
     "id": 2046,
-    "title": "待填写",
+    "title": "基于U-Net的眼底血管分割实验",
     "author": "李旭阳",
     "studentId": "3125358291",
     "className": "S5284",
@@ -531,7 +531,7 @@ export const posters2025 = [
   },
   {
     "id": 2047,
-    "title": "待填写",
+    "title": "基于磁共振成像的儿童脑龄预测建模算法研究",
     "author": "李昊文",
     "studentId": "3125113079",
     "className": "S5130",
@@ -542,7 +542,7 @@ export const posters2025 = [
   },
   {
     "id": 2048,
-    "title": "待填写",
+    "title": "多参数融合睡眠监测及智能化分期技术研究",
     "author": "李洁",
     "studentId": "3125313038",
     "className": "s5132",
@@ -553,7 +553,7 @@ export const posters2025 = [
   },
   {
     "id": 2049,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "李稼轩",
     "studentId": "3125313019",
     "className": "S5131",
@@ -564,7 +564,7 @@ export const posters2025 = [
   },
   {
     "id": 2050,
-    "title": "待填写",
+    "title": "一种基于U-NET算法的神经系统肿瘤分割模型",
     "author": "李锐颖",
     "studentId": "4125315143",
     "className": "B25073",
@@ -575,7 +575,7 @@ export const posters2025 = [
   },
   {
     "id": 2051,
-    "title": "待填写",
+    "title": "基于fNIRS的卒中后感觉障碍患者脑功能分析研究",
     "author": "杨松健",
     "studentId": "3125113059",
     "className": "S5129班",
@@ -586,7 +586,7 @@ export const posters2025 = [
   },
   {
     "id": 2052,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "杨泽昊",
     "studentId": "3125113054",
     "className": "S5129",
@@ -597,7 +597,7 @@ export const posters2025 = [
   },
   {
     "id": 2053,
-    "title": "待填写",
+    "title": "基于胸部CT的早期肺腺癌病理亚型无创预测模型构建与验证",
     "author": "林远生",
     "studentId": "4525213002",
     "className": "1班",
@@ -608,7 +608,7 @@ export const posters2025 = [
   },
   {
     "id": 2054,
-    "title": "待填写",
+    "title": "基于FCGR的DNA序列相关性度量及其在同源分析中的应用",
     "author": "柯静",
     "studentId": "4125104062",
     "className": "B25042",
@@ -619,7 +619,7 @@ export const posters2025 = [
   },
   {
     "id": 2055,
-    "title": "待填写",
+    "title": "大脑临界态敏感性和稳定性的统一",
     "author": "柳嘉静",
     "studentId": "4125113042",
     "className": "S25058",
@@ -630,7 +630,7 @@ export const posters2025 = [
   },
   {
     "id": 2056,
-    "title": "待填写",
+    "title": "MFEP：基于多模态特征融合的酶动力学参数预测模型",
     "author": "梁昊",
     "studentId": "3125313042",
     "className": "S5132",
@@ -641,7 +641,7 @@ export const posters2025 = [
   },
   {
     "id": 2057,
-    "title": "待填写",
+    "title": "胆囊病变超声图像的分割和分类深度学习模型训练",
     "author": "汤清雨",
     "studentId": "4125315091",
     "className": "B25070",
@@ -652,7 +652,7 @@ export const posters2025 = [
   },
   {
     "id": 2058,
-    "title": "待填写",
+    "title": "基于表面肌电的帕金森病步态障碍症状量化评价研究",
     "author": "潘文豪",
     "studentId": "3125101156",
     "className": "S5005",
@@ -663,7 +663,7 @@ export const posters2025 = [
   },
   {
     "id": 2059,
-    "title": "待填写",
+    "title": "基于CNN的细胞图像癌症分类",
     "author": "焦晨阳",
     "studentId": "4125113019",
     "className": "25057班",
@@ -674,7 +674,7 @@ export const posters2025 = [
   },
   {
     "id": 2060,
-    "title": "待填写",
+    "title": "智能体赋能的力学生物超材料设计及应用",
     "author": "牛裕博",
     "studentId": "3125313027",
     "className": "S5132",
@@ -685,7 +685,7 @@ export const posters2025 = [
   },
   {
     "id": 2061,
-    "title": "待填写",
+    "title": "面向生物信息数据的多模态智能分析模型研究与应用",
     "author": "王文通",
     "studentId": "3125313044",
     "className": "S5132",
@@ -696,7 +696,7 @@ export const posters2025 = [
   },
   {
     "id": 2062,
-    "title": "待填写",
+    "title": "AI驱动下的E-cadherin单分子力谱识别技术在口腔癌早筛中的应用研究",
     "author": "王琳",
     "studentId": "4525213007",
     "className": "2510",
@@ -707,7 +707,7 @@ export const posters2025 = [
   },
   {
     "id": 2063,
-    "title": "待填写",
+    "title": "基于深度学习的心电图（ECG）信号自动分类研究",
     "author": "王颂",
     "studentId": "4525213016",
     "className": "",
@@ -718,7 +718,7 @@ export const posters2025 = [
   },
   {
     "id": 2064,
-    "title": "待填写",
+    "title": "基于双目视觉的智能车辆编队相对位姿感知方法",
     "author": "祁宇德",
     "studentId": "3125104247",
     "className": "硕5071",
@@ -729,7 +729,7 @@ export const posters2025 = [
   },
   {
     "id": 2065,
-    "title": "待填写",
+    "title": "融合深度学习先验的分数模型用于CBCT截断重建",
     "author": "秦延辉",
     "studentId": "3125113078",
     "className": "S5130",
@@ -740,7 +740,7 @@ export const posters2025 = [
   },
   {
     "id": 2066,
-    "title": "待填写",
+    "title": "基于改进ResNet18的PathMNIST医学图像分类研究",
     "author": "秦骁川",
     "studentId": "3125113052",
     "className": "s5129",
@@ -751,7 +751,7 @@ export const posters2025 = [
   },
   {
     "id": 2067,
-    "title": "待填写",
+    "title": "基于深度学习的甲状腺超声图像良恶性诊断算法研究",
     "author": "罗浩东",
     "studentId": "3125313014",
     "className": "S5131",
@@ -762,7 +762,7 @@ export const posters2025 = [
   },
   {
     "id": 2068,
-    "title": "待填写",
+    "title": "基于几何深度学习与矩阵分解算法的个体化脑网络研究",
     "author": "苗启珠",
     "studentId": "3125113086",
     "className": "S5130",
@@ -773,7 +773,7 @@ export const posters2025 = [
   },
   {
     "id": 2069,
-    "title": "待填写",
+    "title": "基于GPCIS框架的肠镜图像交互式息肉分割方法研究",
     "author": "蒋煌乐",
     "studentId": "3125313004",
     "className": "S5131",
@@ -784,7 +784,7 @@ export const posters2025 = [
   },
   {
     "id": 2070,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "蓝鸿毅",
     "studentId": "4125113040",
     "className": "25058",
@@ -795,7 +795,7 @@ export const posters2025 = [
   },
   {
     "id": 2071,
-    "title": "待填写",
+    "title": "基于CNN的糖尿病视网膜病变识别系统",
     "author": "裴瑞豪",
     "studentId": "3125313025",
     "className": "S5132",
@@ -806,7 +806,7 @@ export const posters2025 = [
   },
   {
     "id": 2072,
-    "title": "待填写",
+    "title": "基于序数回归的肺区图像分级方法",
     "author": "詹仕祺",
     "studentId": "3125113058",
     "className": "S5129",
@@ -817,7 +817,7 @@ export const posters2025 = [
   },
   {
     "id": 2073,
-    "title": "待填写",
+    "title": "基于深度学习的隔离开关状态监测",
     "author": "许锦弘",
     "studentId": "3125104037",
     "className": "s5062",
@@ -828,7 +828,7 @@ export const posters2025 = [
   },
   {
     "id": 2074,
-    "title": "待填写",
+    "title": "基于U-Net的DRIVE眼底血管分割",
     "author": "谷怡昊",
     "studentId": "3125113071",
     "className": "S5130",
@@ -839,7 +839,7 @@ export const posters2025 = [
   },
   {
     "id": 2075,
-    "title": "待填写",
+    "title": "基于U-Net及其改进模型的视网膜血管自动分割",
     "author": "费晗曦",
     "studentId": "3125313030",
     "className": "S5132",
@@ -850,7 +850,7 @@ export const posters2025 = [
   },
   {
     "id": 2076,
-    "title": "待填写",
+    "title": "基于ResNet50的乳腺超声肿瘤分类研究",
     "author": "赵艺婷",
     "studentId": "4125113017",
     "className": "25057班",
@@ -861,7 +861,7 @@ export const posters2025 = [
   },
   {
     "id": 2077,
-    "title": "待填写",
+    "title": "基于广角OCTA图像的血管分割",
     "author": "路佳蕾",
     "studentId": "3125313036",
     "className": "S5132班",
@@ -872,7 +872,7 @@ export const posters2025 = [
   },
   {
     "id": 2078,
-    "title": "待填写",
+    "title": "基于深度学习的CT金属伪影去除算法研究",
     "author": "郑舟",
     "studentId": "4125313006",
     "className": "25059",
@@ -883,7 +883,7 @@ export const posters2025 = [
   },
   {
     "id": 2079,
-    "title": "待填写",
+    "title": "基于高光谱成像的尿液细菌检测",
     "author": "郭人豪",
     "studentId": "3125313029",
     "className": "硕5132",
@@ -894,7 +894,7 @@ export const posters2025 = [
   },
   {
     "id": 2080,
-    "title": "待填写",
+    "title": "基于迁移学习的胸部X光肺炎识别",
     "author": "郭宥君",
     "studentId": "3125113066",
     "className": "s5129",
@@ -905,7 +905,7 @@ export const posters2025 = [
   },
   {
     "id": 2081,
-    "title": "待填写",
+    "title": "基于transformer特征融合的BI-RADS 4类乳腺肿瘤多参数超声诊断",
     "author": "郭朝阳",
     "studentId": "3125113080",
     "className": "S5130",
@@ -916,7 +916,7 @@ export const posters2025 = [
   },
   {
     "id": 2082,
-    "title": "待填写",
+    "title": "儿童肺炎Xray影像分类",
     "author": "闫佳欢",
     "studentId": "3125104218",
     "className": "S5070",
@@ -927,7 +927,7 @@ export const posters2025 = [
   },
   {
     "id": 2083,
-    "title": "待填写",
+    "title": "白藜芦醇作用圆锥角膜的靶基因预测与机制探究",
     "author": "陈乐天",
     "studentId": "3125313043",
     "className": "S5132",
@@ -938,7 +938,7 @@ export const posters2025 = [
   },
   {
     "id": 2084,
-    "title": "待填写",
+    "title": "基于深度学习的稀疏CT图像重建",
     "author": "陈杰",
     "studentId": "4125113068",
     "className": "25059",
@@ -949,7 +949,7 @@ export const posters2025 = [
   },
   {
     "id": 2085,
-    "title": "待填写",
+    "title": "基于生物信息学分析探究乳酸化在膝骨关节炎滑膜中的表达",
     "author": "陈阳",
     "studentId": "4125315139",
     "className": "1班",
@@ -960,7 +960,7 @@ export const posters2025 = [
   },
   {
     "id": 2086,
-    "title": "待填写",
+    "title": "基于贝叶斯加权神经网络的故障识别",
     "author": "马玉祥",
     "studentId": "3124307009",
     "className": "S4099",
@@ -971,7 +971,7 @@ export const posters2025 = [
   },
   {
     "id": 2087,
-    "title": "待填写",
+    "title": "项目标题",
     "author": "魏元泽",
     "studentId": "3125313034",
     "className": "S5132",
